@@ -7,8 +7,9 @@
   (title_block
     (title "16Kb ROM Cartridge for Sinclair QL")
     (date "2022-02-02")
+    (rev "0")
     (company "(c) 2022 Alvaro Alea Fdz.")
-    (comment 1 "Use only 27C128 / 62256  / W27C512 as IC2")
+    (comment 1 "IC2 should be 27C128 / W27C512")
     (comment 2 "https://ohwr.org/cern_ohl_s_v2.txt")
     (comment 3 "CERN Open Hardware Licence Version 2 - Strongly Reciprocal")
     (comment 4 "Under License")

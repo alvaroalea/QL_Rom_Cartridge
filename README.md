@@ -1,7 +1,10 @@
 # QL_Rom_Cartridge
 Schematic, PCB and other stuff to make ROM Cartridge for use with Sinclair QL Computer
 
+(C) 2022 Alvaro Alea Fdz.
+
 License under: CERN Open Hardware Licence Version 2 - Strongly Reciprocal
+
 https://ohwr.org/cern_ohl_s_v2.txt
 
 ## Folder: Original

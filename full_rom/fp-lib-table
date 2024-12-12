@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "8bits")(type "KiCad")(uri "/home/alvaro/kicadprojects/8bits_kicad_libraries/8bits.pretty")(options "")(descr ""))
+)

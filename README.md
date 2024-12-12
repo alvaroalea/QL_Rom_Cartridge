@@ -25,7 +25,7 @@ This version need a 16Kb eprom, and is intended as a replacement of Toolkit II c
 ![My image](short/short.png)
 ## Folder: full_rom
 
-### NOT TESTED, NO IDEA ID WORK
+### NOT TESTED, NO IDEA IF WORK
 This version need a 64Kb eprom, and is intended to replace the internal ROM of the QL.
 
 Is very important to remove the 2 ROM chips from the QL before use.
@@ -35,7 +35,7 @@ Be aware that this lock the rom cartridge, and the QL will not work without it.
 
 ## Folder: 8full_rom
 
-### NOT TESTED, NO IDEA ID WORK
+### NOT TESTED, NO IDEA IF WORK
 The 8full_rom is a version of full_rom with 3 switch to allow 8 diferent version of the ROM of the QL.
 
 Is very important to remove the 2 ROM chips from the QL before use.

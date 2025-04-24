@@ -7,6 +7,9 @@ License under: CERN Open Hardware Licence Version 2 - Strongly Reciprocal
 
 https://ohwr.org/cern_ohl_s_v2.txt
 
+Remenber that when using my jerber files with JLCPCB you shall mark the option to specify the Order Number (no cost) to avoid the text JLCJLCJLCJLC in the skilscreen.
+![My image](Note.png)
+
 ## Folder: Original
 This folder contain the schematic of the original Sinclair cartridge as far as i can get from pictures from internet.
 
@@ -15,7 +18,7 @@ This folder contain the schematic of the original Sinclair cartridge as far as i
 It also contains 3D pieces to do vacum form of the case
 
 STATUS
-- Schematic - Working, tested
+- Schematic - Working, tested and match the original, Thank You Chr$.
 - Case - Design, Non tested
 
 ## Folder: Short
